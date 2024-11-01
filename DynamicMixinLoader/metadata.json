@@ -1,0 +1,7 @@
+{
+    "name": "DynamicMixinLoader",
+    "version": "1.0.0",
+    "asmEntry": "dynamicMixinLoader.js",
+    "creator": "Yedel",
+    "description": "Loads dynamic mixins"
+}
